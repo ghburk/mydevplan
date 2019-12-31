@@ -1,1 +1,1 @@
-# mydevplan
+# my software development learning plan
